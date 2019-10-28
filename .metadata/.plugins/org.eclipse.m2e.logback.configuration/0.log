@@ -43,3 +43,13 @@
 2019-09-18 17:01:38,968 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2019-09-18 17:01:38,971 [Worker-4: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2019-09-18 17:01:38,980 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Java Project 11AM\Git\HimalayaBookApp\src\test\resources
+2019-09-18 17:31:57,302 [Worker-21: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' E:\Java Project 11AM\Git\BookApp\pom.xml
+2019-09-18 17:31:57,539 [Worker-21: Creating maven-archetype-webapp] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: nit:BookApp:0.0.1-SNAPSHOT @ E:\Java Project 11AM\Git\BookApp\pom.xml.
+2019-09-18 17:31:57,776 [Worker-21: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BookApp/src/main/java
+2019-09-18 17:31:57,776 [Worker-21: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BookApp/src/main/resources
+2019-09-18 17:31:57,776 [Worker-21: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BookApp/src/test/java
+2019-09-18 17:32:02,241 [Worker-21: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2019-09-18 17:32:02,569 [Worker-21: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-18 17:32:02,577 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-18 17:32:02,581 [Worker-21: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-18 17:32:02,586 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Java Project 11AM\Git\BookApp\src\test\resources

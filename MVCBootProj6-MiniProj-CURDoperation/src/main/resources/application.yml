@@ -1,0 +1,9 @@
+#Server managed conn pool
+spring:
+  datasource:
+    jndi-name: java:/comp/env/DsJndi
+  mvc:
+    view:
+      prefix: /WEB-INF/pages/
+      suffix: .jsp
+        
